@@ -19,7 +19,7 @@
 - [X] Complete SQL Teaching tutorial sections
 - [X] Complete 10 Relational Algebra challenges on HackerRank
 - [X] Complete 5 Database Normalization challenges on HackerRank
-- [ X Review SQL Bolt and SQLZoo
+- [X] Review SQL Bolt and SQLZoo
 
 #### SQL Foundations & Stretch Specs
 
