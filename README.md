@@ -16,10 +16,13 @@
 
 #### SQL Foundations & Practice Specs
 
-- [ ] Complete SQL Teaching tutorial sections
-- [ ] Complete 10 Relational Algebra challenges on HackerRank
-- [ ] Complete 5 Database Normalization challenges on HackerRank
-- [ ] Review SQL Bolt and SQLZoo
+- [X] Complete SQL Teaching tutorial sections
+- [X] Complete 10 Relational Algebra challenges on HackerRank
+- [X] Complete 5 Database Normalization challenges on HackerRank
+- [ X Review SQL Bolt and SQLZoo
+
+#### SQL Foundations & Stretch Specs
+
 - [ ] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise
 
 #### What skills and concepts did we acquire working on this relational database challenge
